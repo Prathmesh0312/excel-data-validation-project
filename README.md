@@ -1,7 +1,7 @@
 # Excel VBA and Macros for ALDI Project
 
 ## Overview
-The current stage of the project includes Data validation, Data Cleaning, Data gathering, Power Query, Pivot Tables, and Power Pivot for Excel. Files demonstrate:
+The current stage of the project involves preparing data using Power Apps and Excel. Files demonstrate:
 - ✅ Data Cleaning
 - ✅ Data Validation
 - ✅ Power Query
